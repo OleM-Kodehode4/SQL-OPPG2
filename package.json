@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "faker": "^6.6.6",
+    "mssql": "^11.0.1",
     "node-fetch": "^3.3.2"
   }
 }
